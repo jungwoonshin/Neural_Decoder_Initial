@@ -1,0 +1,56 @@
+cancer =>  cancer  => meat:  0.0006320916370292709
+cancer =>  barbecued meat  => meat:  0.0013504504470568113
+cancer =>  alcohol  => meat:  0.0007228392411784967
+cancer =>  barbecued fish  => meat:  0.001339157725789214
+cancer =>  fried meat  => meat:  0.0013442274209465727
+cancer =>  fat  => meat:  0.0004361562594620734
+cancer =>  grilled meat  => meat:  0.0013392590318864264
+cancer =>  grilled fish  => meat:  0.0013219599456525746
+cancer =>  red meat  => meat:  0.0007750837337208716
+
+cancer =>  colon cancer  => meat:  0.0012168175468458761
+cancer =>  kidney disease  => meat:  0.0015121866691136243
+cancer =>  myocardial infarction  => meat:  0.00152249176839582
+cancer =>  colorectal cancer  => meat:  0.0008299128257337821
+cancer =>  cardiovascular disease  => meat:  0.0007472591477828139
+cancer =>  breast cancer  => meat:  0.0010600022464031383
+cancer =>  meat  => meat:  0.0008126892778840961
+
+colon cancer =>  colon cancer  => meat:  0.0019359977251091898
+colon cancer =>  meat  => meat:  0.003778492901542335
+colon cancer =>  fat  => meat:  0.000755444777585039
+colon cancer =>  colon cancer  => meat:  0.0037372650034467325
+colon cancer =>  kidney disease  => meat:  0.0015306883813666627
+colon cancer =>  myocardial infarction  => meat:  0.0015388527609556946
+colon cancer =>  colorectal cancer  => meat:  0.0008097768990169979
+colon cancer =>  cardiovascular disease  => meat:  0.0007620805918882798
+colon cancer =>  breast cancer  => meat:  0.0010832181535442714
+colon cancer =>  meat  => meat:  0.0008297133231247728
+
+metabolic syndrome =>  metabolic syndrome  => sugar:  0.0005940048112571955
+metabolic syndrome =>  corn syrup  => sugar:  0.0013148100531209517
+metabolic syndrome =>  fructose  => sugar:  0.0006242760220544277
+metabolic syndrome =>  fat  => sugar:  0.0004151338658451402
+metabolic syndrome =>  high-saturated fat  => sugar:  0.0013044763729627568
+metabolic syndrome =>  high-fructose corn syrup  => sugar:  0.0008253547918708609
+metabolic syndrome =>  sugar  => sugar:  0.0013853146307402642
+metabolic syndrome =>  starch  => sugar:  0.001059463817743203
+metabolic syndrome =>  high-sucrose diet  => sugar:  0.0012738441433375047
+metabolic syndrome =>  flaxeed oil  => sugar:  0.0013095704817097653
+
+metabolic syndrome =>  macular degeneration  => sugar:  0.0010092838962540776
+metabolic syndrome =>  type 2 diabetes  => sugar:  0.0008348102693803844
+metabolic syndrome =>  diabetes mellitus  => sugar:  0.0005156716217892543
+metabolic syndrome =>  heart disease  => sugar:  0.000496785347645138
+metabolic syndrome =>  dental caries  => sugar:  0.0009875063236561774
+metabolic syndrome =>  prostate cancer  => sugar:  0.0005133027549165184
+metabolic syndrome =>  cataract  => sugar:  0.0010242628201040452
+metabolic syndrome =>  children obesity  => sugar:  0.0009945911923059936
+metabolic syndrome =>  pancreatic cancer  => sugar:  0.0010318156669368375
+metabolic syndrome =>  hyperuricemia  => sugar:  0.00101460287783596
+metabolic syndrome =>  coronary heart disease  => sugar:  0.0007097054040059447
+metabolic syndrome =>  cardiovascular disease  => sugar:  0.0005137741492990712
+metabolic syndrome =>  root caries  => sugar:  0.0010173024986821697
+metabolic syndrome =>  obesity  => sugar:  0.00033021189794708687
+metabolic syndrome =>  metabolic syndrome  => sugar:  0.0013780212364774697
+metabolic syndrome =>  sugar  => sugar:  0.0003712530015036464
